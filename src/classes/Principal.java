@@ -8,7 +8,7 @@ public class Principal {
 	public static void main (String[] args) {
 		int num1 = 0;
 		while (num1 != 6) {
-			System.out.println("1 para adicionar, 2 para buscar, 3 para remover, 4 para exibir, 5 para avaliar, 6 para sair");
+			System.out.println("1 para adicionasrasd, 2 para buscar, 3 para remover, 4 para exibir, 5 para avaliar, 6 para sair");
 			Scanner sc1 = new Scanner(System.in);
 			num1 = sc1.nextInt();
 		
