@@ -1,6 +1,8 @@
 #Project-POO
-	TRABALHO
-####Para adicionar este projeto no seu Eclipse segue o URL que usei de referencia
+	TRABALHO de testa
+
+
+#Para adicionar este projeto no seu Eclipse segue o URL que usei de referencia
 	- https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-import-a-GitHub-project-into-Eclipse
 	
 ####Caso tenham feito alguma alteração antes da criação do repositorio e não queiram perde segue os comandos que criaram uma branch separada que depois podemos fazer merge.
