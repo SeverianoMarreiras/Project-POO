@@ -13,8 +13,7 @@ public class Principal {
 			num1 = sc1.nextInt();
 		
 			if (num1 == 1) {
-				System.out
-						.println("digite 1 para adicionar ator, 2 para usuario, 3 para adicionar midias, 4 para sair");
+				System.out.println("digite 1 para adicionar ator, 2 para usuario, 3 para adicionar midias, 4 para sair");
 				int num2 = 0;
 				num2 = sc1.nextInt();
 				while (num2 != 4) {
